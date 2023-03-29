@@ -9,9 +9,6 @@ import json
 nda_data_json_file='C:\\Users\\Alex\\Documents\\Lei\\Neurobridge\\NIMH-NDA-Data-structures.json'
 instrument_json='C:\\Users\\Alex\\Documents\\Lei\\Neurobridge\\search\\instruments.json'
 url_stub="https://nda.nih.gov/data_structure.html?short_name="
-#instrument_shortName_file='C:\\Users\\Alex\\Documents\\Lei\\Neurobridge\\instrument_shortName.txt'
-#instrument_title_file='C:\\Users\\Alex\\Documents\\Lei\\Neurobridge\\instrument_title.txt'
-
 
 # Open json file
 with open(nda_data_json_file) as jsondata:
